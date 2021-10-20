@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388369061334",
+    "project_id": "eatfit-61bca",
+    "storage_bucket": "eatfit-61bca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388369061334:android:c4e1ea9b255a9988fcc077",
+        "android_client_info": {
+          "package_name": "com.geekym.eatfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388369061334-n3rq0qf2f8mcpb6sdk3dmvvfoo0abc5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzECGFIdc9WbPMxkgzekC8HMcYNMHyqNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388369061334-n3rq0qf2f8mcpb6sdk3dmvvfoo0abc5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

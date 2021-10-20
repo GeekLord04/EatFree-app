@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_arrow_circle_down_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_arrow_circle_down_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_arrow_circle_down_24.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_arrow_circle_down_24.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_downarrow.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_downarrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_password.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_password.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_downarrow.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_downarrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_food.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_food.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_mail.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_food.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_food.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_spinner_layout.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\layout\\color_spinner_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eatfit.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable\\eatfit.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_person_name.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\person_name.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_downarrow.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_downarrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eatfitlogo.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable\\eatfitlogo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_person_name.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\person_name.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_finalicon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable-v24\\finalicon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable-v24\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_downarrow.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_downarrow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_new_button1.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable\\new_button1.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\font_alex_brush.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\font\\alex_brush.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_newicon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable-v24\\newicon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_food.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_food.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_new_sign_up.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\layout\\fragment_new_sign_up.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_person_name.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\person_name.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_person_name.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\person_name.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_food.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_food.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_finalicon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable\\finalicon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_arrow_circle_down_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_arrow_circle_down_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_password.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_password.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_mail.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_mail.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_food.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_food.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toggle_widget_button.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable\\toggle_widget_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pink_out_line.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable\\pink_out_line.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_person_name.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\person_name.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\font_adamina.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\font\\adamina.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_food.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_food.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mail.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_mail.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_arrow_circle_down_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_arrow_circle_down_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_mail.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_mail.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_new_button.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable\\new_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_new_login.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\layout\\fragment_new_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_downarrow.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_downarrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_mail.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_mail.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_food_order.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\layout\\activity_food_order.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mail.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_mail.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_person_name.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\person_name.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\raw_animation.json.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\raw\\animation.json"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_downarrow.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_downarrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_custombutton.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable\\home_custombutton.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_person_name.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\person_name.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toggle_widget_background.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable\\toggle_widget_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\font\\roboto.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_arrow_circle_down_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_arrow_circle_down_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_editnew.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable\\editnew.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eatfitlogo.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable-v24\\eatfitlogo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_password.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_password.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_password.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_password.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newicon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable\\newicon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_password.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_password.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_food_planner.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\layout\\activity_food_planner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_password.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_downarrow.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_downarrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_arrow_circle_down_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_arrow_circle_down_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\drawable\\edit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_arrow_circle_down_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_arrow_circle_down_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mail.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_mail.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_screen.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\layout\\activity_home_screen.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_food.png.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_food.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\EatFit\\app\\build\\intermediates\\res\\merged\\debug\\font_amarante.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\EatFit\\app\\src\\main\\res\\font\\amarante.xml"
+    }
+]

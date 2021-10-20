@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".FoodOrder">
+
+
+    <Button
+        android:id="@+id/ubereats"
+        android:layout_width="345dp"
+        android:layout_height="47dp"
+        android:background="@drawable/edit"
+        android:contentDescription="foodorder"
+        android:drawableLeft="@drawable/ic_food"
+        android:drawablePadding="10dp"
+        android:elevation="30dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Uber Eats"
+        android:onClick="fooduber"
+        android:padding="13dp"
+        android:textColorHint="#2383AA"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.314"
+        tools:ignore="DuplicateIds" />
+
+    <Button
+        android:id="@+id/zomato"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit"
+        android:contentDescription="foodorder"
+        android:drawableLeft="@drawable/ic_food"
+        android:drawablePadding="10dp"
+        android:elevation="30dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Zomato"
+        android:onClick="foodzomato"
+        android:padding="13dp"
+        android:textColorHint="#2383AA"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.478" />
+
+    <Button
+        android:id="@+id/swiggy"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit"
+        android:contentDescription="foodorder"
+        android:drawableLeft="@drawable/ic_food"
+        android:drawablePadding="10dp"
+        android:elevation="30dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Swiggy"
+        android:onClick="foodswiggy"
+        android:padding="13dp"
+        android:textColorHint="#2383AA"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.654" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="206dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="72dp"
+        android:fontFamily="@font/roboto"
+        android:gravity="center"
+        android:text="FOOD ORDER"
+        android:textColor="@color/white"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
